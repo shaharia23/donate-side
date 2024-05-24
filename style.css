@@ -98,3 +98,51 @@ h2{
 .padding-all{
     margin: 3%;
 }
+.color-align{
+    color: black;
+    font-size: 75px;
+}
+.width img{
+    width: 93%;
+    height: 100%;
+}
+.width{
+    margin-top: 10%;
+    margin-left: 3%;
+}
+.Contribute-button{
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 60, 0),rgb(248, 103, 46));
+    border-radius: 10px;
+    padding: 10px 60px;
+}
+.color-palign{
+    color: black;
+    font-size: 70px;
+}
+.widthtwo{
+    margin: 3%;
+    margin-top: 10%;
+}
+.widthtwo img{
+    width: 95%;
+    height: 100%;
+}
+footer{
+    background-color: black;
+    padding: 50px 50px ;
+}
+footer h3{
+    color: rgb(255, 212, 212);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+footer p{
+    color: aliceblue;
+    text-align: center;
+}
