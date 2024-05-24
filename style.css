@@ -133,6 +133,35 @@ h2{
     width: 95%;
     height: 100%;
 }
+.input{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    font-size: 30px;
+    background-color: antiquewhite;
+    text-align:center;
+    padding: 70px 40px;
+}
+.email{
+    background-color: rgb(198, 199, 199);
+    font-size: 20px;
+    font-weight: 700;
+    width: 30%;
+    padding: 15px 10px;
+    border: none;
+    border-radius: 5px;
+}
+.submit{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    width: 15%;
+    background-color: rgb(255, 0, 0);
+    padding: 15px 10px;
+    border: none;
+    border-radius: 5px;
+}
 footer{
     background-color: black;
     padding: 50px 50px ;
