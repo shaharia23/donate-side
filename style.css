@@ -74,3 +74,27 @@ h2{
 .flex-continer{
     display: flex;
 }
+.align{
+    margin-top: 10%;
+}
+.food-bac{
+    background-color: antiquewhite;
+    margin: 1%;
+    text-align: center;
+    padding: 20px 5px;
+}
+.frame-bac{
+    background-color: rgb(177, 202, 255);
+    margin: 1%;
+    text-align: center;
+    padding: 20px 5px;
+}
+.shelter-bac{
+    background-color: rgb(154, 252, 159);
+    margin: 1%;
+    text-align: center;
+    padding: 20px 5px;
+}
+.padding-all{
+    margin: 3%;
+}
